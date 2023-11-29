@@ -1,0 +1,35 @@
+.footer { 
+    background-color: #eee;
+  }
+  
+.footer a {
+    color: #000;
+    text-decoration: none;
+  }
+  
+.footer .content {
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    align-items: center;
+  }
+  
+.footer .content ul {
+    list-style-type: none;
+    display: flex;
+    gap: 24px;
+  }
+.footer .content ul a{
+  text-decoration: none;
+  color: #000;
+  font-size: 24px;
+}
+/* }
+.header .content ul li {
+    margin-left: 20px;
+    font-size: 18px;
+  }
+  
+.header .active {
+    color: #0000ff;
+  } */

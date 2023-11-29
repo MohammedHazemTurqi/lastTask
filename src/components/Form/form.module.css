@@ -1,0 +1,30 @@
+ .formBox {
+    margin-top: 38px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+ .formBox input {
+    flex: 1;
+    border: none;
+    outline: none;
+    border: 1px solid #f0f0f0;
+    height: 48px;
+    font-size: 18px;
+    padding: 0px 16px;
+    /* padding-left: 16px;
+        padding-right: 16px; */
+    border-radius: 8px;
+  }
+  
+ .formBox button {
+    border: none;
+    border-radius: 8px;
+    margin-left: 16px;
+    height: 48px;
+    padding: 0px 14px;
+    font-size: 18px;
+    background-color: #0000ff;
+    color: #fff;
+  }
+  
